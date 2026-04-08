@@ -59,3 +59,6 @@ A Rust library for writing Excel Binary (XLSB) files from Arrow RecordBatches. F
 - binaryIndex seek-optimization file (omitted — no functional impact)
 - Print settings / page setup
 - Defined names / print areas
+=======
+A Rust library for writing Excel Binary (XLSB) files from Arrow RecordBatches. First and only xlsb writer (to my knowledge).
+>>>>>>> 66e49684f991bdf8afe7f95c60ad2acc88fccf39
