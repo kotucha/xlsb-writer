@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Fast zero-copy XLSB (Excel Binary) writer for Arrow RecordBatches"
 license = "MIT"
-repository = "https://github.com/YOUR_USERNAME/xlsb-writer"
+repository = "https://github.com/kotucha/xlsb-writer"
 
 [lib]
 name = "xlsb_writer"
