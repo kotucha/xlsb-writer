@@ -1,6 +1,6 @@
 [package]
 name = "xlsb-writer"
-version = "0.1.0-a"
+version = "0.1.0-b"
 edition = "2021"
 description = "Fast zero-copy XLSB (Excel Binary) writer for Arrow RecordBatches"
 license = "MIT"
