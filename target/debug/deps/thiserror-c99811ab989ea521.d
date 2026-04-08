@@ -1,0 +1,14 @@
+C:\Users\and3\AppData\Local\Programs\Warp\rust_xlsb_fixed\target\debug\deps\thiserror-c99811ab989ea521.d: C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs C:\Users\and3\AppData\Local\Programs\Warp\rust_xlsb_fixed\target\debug\build\thiserror-e584c1fa58a15f1f\out/private.rs
+
+C:\Users\and3\AppData\Local\Programs\Warp\rust_xlsb_fixed\target\debug\deps\libthiserror-c99811ab989ea521.rlib: C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs C:\Users\and3\AppData\Local\Programs\Warp\rust_xlsb_fixed\target\debug\build\thiserror-e584c1fa58a15f1f\out/private.rs
+
+C:\Users\and3\AppData\Local\Programs\Warp\rust_xlsb_fixed\target\debug\deps\libthiserror-c99811ab989ea521.rmeta: C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs C:\Users\and3\AppData\Local\Programs\Warp\rust_xlsb_fixed\target\debug\build\thiserror-e584c1fa58a15f1f\out/private.rs
+
+C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs:
+C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs:
+C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs:
+C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs:
+C:\Users\and3\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs:
+C:\Users\and3\AppData\Local\Programs\Warp\rust_xlsb_fixed\target\debug\build\thiserror-e584c1fa58a15f1f\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\and3\\AppData\\Local\\Programs\\Warp\\rust_xlsb_fixed\\target\\debug\\build\\thiserror-e584c1fa58a15f1f\\out
