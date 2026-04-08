@@ -1,4 +1,6 @@
 # xlsb-writer
+# xlsb-writer
+[![GitHub stars](https://img.shields.io/github/stars/kotucha/xlsb-writer.svg?style=social)](https://github.com/kotucha/xlsb-writer)
 
 A Rust library for writing Excel Binary (XLSB) files from Arrow RecordBatches. First and only xlsb writer (to my knowledge).
 ## Demo Utility
