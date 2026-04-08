@@ -1,6 +1,12 @@
 # xlsb-writer
 
 A Rust library for writing Excel Binary (XLSB) files from Arrow RecordBatches. First and only xlsb writer (to my knowledge).
+## Demo Utility
+A pre-compiled CLI tool for converting XLSX to XLSB using this library is available for download.
+
+[Download the Converter Binary](https://github.com/kotucha/xlsb-writer/releases)
+
+*Note: This repository contains the source code for the library only (for now).*
 
 ## Supported ✓
 
